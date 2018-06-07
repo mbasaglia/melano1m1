@@ -14,14 +14,14 @@ New Uris for this repos
 -----------------------
 
 For webview, replace
-https://github.com/mbasaglia/<repo> with
-https://gitlab.com/mattia.basaglia/<repo>
+https://github.com/mbasaglia/melano1m1 with
+https://gitlab.com/mattia.basaglia/melano1m1
 
 For SSH remotes replace
-`git@github.com:mbasaglia/<repo>.git` with
-`git@gitlab.com:mattia.basaglia/<repo>.git`
+`git@github.com:mbasaglia/melano1m1.git` with
+`git@gitlab.com:mattia.basaglia/melano1m1.git`
 
 For HTTPS remotes replace
-`https://github.com/mbasaglia/<repo>.git` with
-`https://gitlab.com/mattia.basaglia/<repo>.git`
+`https://github.com/mbasaglia/melano1m1.git` with
+`https://gitlab.com/mattia.basaglia/melano1m1.git`
 
